@@ -1,8 +1,8 @@
 # SDN - ARP Handling
 
-**NAME:** N. Sai Sudeshna  
-**SRN:** PES2UG24CS313  
-**SECTION:** F  
+**NAME:** Dhanyashree K M  
+**SRN:** PES2UG24CS156 
+**SECTION:** C 
 
 ---
 
@@ -64,24 +64,16 @@ sudo ovs-ofctl dump-flows s1
 ## 📸 Screenshots
 
 ### 1️⃣ Topology
-![1](topology.png)
-
----
+![Topology](Screenshots/topology.jpeg)
 
 ### 2️⃣ ARP Controller Running
-![2](controller.png)
-
----
+![Controller](Screenshots/controller.jpeg)
 
 ### 3️⃣ Flow Rules
-![3](flow.png)
-
----
+![Flow](Screenshots/flow.jpeg)
 
 ### 4️⃣ Pingall Output (0% Drop)
-![4](pingall.png)
-
----
+![Ping](Screenshots/ping.jpeg)
 
 ## 🔄 Flow of Execution
 
@@ -112,4 +104,4 @@ This project demonstrates efficient ARP handling using SDN, reducing broadcast t
 
 ## 👩‍💻 Author
 
-N. Sai Sudeshna
+Dhanyashree K M 
